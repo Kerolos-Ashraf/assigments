@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "assigment3", "assigment3\as
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "assigment4", "assigment4\assigment4\assigment4.csproj", "{C9B19E30-E5C8-4112-81B5-0DA464012CCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assigment5", "assigment5\assigment5\assigment5.csproj", "{DE0FD089-A432-4DA1-BA35-3297C614B6CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "assigment5", "assigment5\assigment5\assigment5.csproj", "{DE0FD089-A432-4DA1-BA35-3297C614B6CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assigment6", "assigment6\assigment6\assigment6.csproj", "{A6BF676E-3506-4F51-9915-912704FF3F4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DE0FD089-A432-4DA1-BA35-3297C614B6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE0FD089-A432-4DA1-BA35-3297C614B6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE0FD089-A432-4DA1-BA35-3297C614B6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6BF676E-3506-4F51-9915-912704FF3F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BF676E-3506-4F51-9915-912704FF3F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BF676E-3506-4F51-9915-912704FF3F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BF676E-3506-4F51-9915-912704FF3F4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
