@@ -24,7 +24,7 @@ namespace assigment6
                         2)ANY CHANGES INSIDE THE METHOD WILL AFFECT THE ORIGINAL VARIABLE        
              */
 
-            // Pass by reference
+            // Pass by Value
             //static void IncreaseByValue(int number)
             //{
             //    number += 10;
