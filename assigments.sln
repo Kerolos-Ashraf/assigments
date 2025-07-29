@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "assigment6", "assigment6\as
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "assigment1_oop", "assigment1_oop\assigment1_oop\assigment1_oop.csproj", "{CC8E98F1-E64C-408E-BC07-406825002E9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assigment_OOP02", "assigment_OOP02\ConsoleApp1\assigment_OOP02.csproj", "{95F2BA96-AE21-4A94-A097-3628A59BAADD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "assigment_OOP02", "assigment_OOP02\ConsoleApp1\assigment_OOP02.csproj", "{95F2BA96-AE21-4A94-A097-3628A59BAADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assigment_OOP03", "assigment_OOP03\assigment_OOP03\assigment_OOP03.csproj", "{76869778-3231-4844-95E8-0E593A539E30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{95F2BA96-AE21-4A94-A097-3628A59BAADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95F2BA96-AE21-4A94-A097-3628A59BAADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95F2BA96-AE21-4A94-A097-3628A59BAADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76869778-3231-4844-95E8-0E593A539E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76869778-3231-4844-95E8-0E593A539E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76869778-3231-4844-95E8-0E593A539E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76869778-3231-4844-95E8-0E593A539E30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
